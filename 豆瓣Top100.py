@@ -48,6 +48,7 @@ for ide in range(0,250,25):
 df = pandas.DataFrame(data_all)
 print(df)
 df.to_excel("top豆瓣电影.xlsx")
+#测试Git拉取GitHub的更新
 
 
 
